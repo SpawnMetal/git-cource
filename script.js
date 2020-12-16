@@ -1,2 +1,11 @@
 document.body.innerHTML = '<h1>Hello from JavaScript</h1>'
 console.log('Test 2')
+console.log('checkout test')
+console.log('push test - develop')
+console.log('push test - develop 2')
+console.log('test')
+console.log('test 2')
+console.log('test 3')
+console.log('test 4')
+console.log('test 5')
+console.log('test 6')
